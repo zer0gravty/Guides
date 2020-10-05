@@ -7,7 +7,7 @@ The following courses below are all free. Complete the courses in the following 
 - Create a free account at [Udacity](https://www.udacity.com/).
 - Create a free account at [freeCodeCamp.org](https://www.freecodecamp.org/).
 - *Install a text editor. We recommend [Visual Studio Code](https://code.visualstudio.com/).
-- *Install the [https://nodejs.org/en/) runtime.
+- *Install the [Node.js](https://nodejs.org/en/) runtime.
   
     _*Steps not required, but recommended so you can run and practice JavaScript code locally on your machine._
  
