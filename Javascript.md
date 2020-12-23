@@ -59,16 +59,23 @@ Platform: freeCodeCamp - [JavaScript Algorithms and Data Structures Projects](ht
  
  
 Supplemental: You should follow along and use as a reference Chapters 1 - 10 in Marijn Haverbeke's [Eloquent JavaScript](https://eloquentjavascript.net/). This gives a bit more in depth under-the-hood explanation of the language, and all concepts are explained with ES6 syntax.
- 
-## Part I.A - HTML, CSS and Git/Github
+
+## Part I.A - The "Glue"
+_If you have a good understanding on the how to use the CLI, text editors, IDE's, and other tooling, feel free to skip this section._
+Platform: open MIT - no account required
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+Complete all ten lectures and exercises at the end of each lecture. This will introduce you the CLI (Command Line Interface) or what's commonly referred to as the "shell." In addition, you'll learn some shell scripting, you'll be introduced to Git, a source control version utility tool, and briefly how to debug your code, finishing with a high-level security and cryptography overview necessary for everyday computing.
+
+## Part I.B - HTML, CSS and Git/Github
 _If you already have a good understand of HTML, CSS and Git/Github, you can proceed to Part II. Otherwise, complete the following courses before proceeding._
- 
+
 Platform: freeCodeCamp - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
- 
+
 _Complete this entire module on freeCodeCamp_.
- 
+
 Platform: Udacity - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
- 
+
 Platform: Udacity - [Github & Collaboration](https://classroom.udacity.com/courses/ud456)
  
 Platform: Youtube/freeCodeCamp
@@ -90,23 +97,23 @@ Platform: Udacity - [JavaScript Testing](https://www.udacity.com/course/javascri
  
 ### Section 7:
 Platform: Udacity - [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
- 
+
 Supplemental: Chapters 11 - 16 in Marijn Haverbeke's [Eloquent JavaScript](https://eloquentjavascript.net/).
- 
+
 ## Part III - Web Development
- 
+
  - Watch all the videos from Ben Eater on [how the Internet works](https://eater.net/inet).
  - Web Layout
    - Refresh your CSS by playing the [CSS Diner](https://flukeout.github.io/) game.
    - Refresh your web layout knowledge by playing the [Grid Garden](https://cssgridgarden.com/) and [Flexbox Froggy](https://flexboxfroggy.com/) games.
    - Watch this video on powerful, modern web layout designs: https://www.youtube.com/watch?v=qm0IfG1GyZU
- 
+
 ## Part IV - Automation Testing
- 
+
 TBD
- 
+
 ## Miscellaneous
- 
+
 Platform: Youtube
  
  - [Tutorial on Chrome Developer Tools](https://www.youtube.com/watch?v=wcFnnxfA70g)
