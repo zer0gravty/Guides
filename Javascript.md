@@ -108,7 +108,12 @@ Supplemental: Chapters 11 - 16 in Marijn Haverbeke's [Eloquent JavaScript](https
    - Refresh your web layout knowledge by playing the [Grid Garden](https://cssgridgarden.com/) and [Flexbox Froggy](https://flexboxfroggy.com/) games.
    - Watch this video on powerful, modern web layout designs: https://www.youtube.com/watch?v=qm0IfG1GyZU
 
-## Part IV - Automation Testing
+   Complete all the modules in the Full Stack Open curriculum.
+   This will introduce you to React, the front-end framework javascript library created by Facebook. It will use modern, functional programming with React, and then teach Node.js, Express (server-side JavaScript library), GraphQL (API design) and MongoDB (document style, non-relation DB schema).
+
+   Platform: Independent - [fullstackopen.com](https://fullstackopen.com/en/)
+
+## Part IV - Testing
 
 TBD
 
