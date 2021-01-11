@@ -62,6 +62,7 @@ Supplemental: You should follow along and use as a reference Chapters 1 - 10 in 
 
 ## Part I.A - The "Glue"
 _If you have a good understanding on the how to use the CLI, text editors, IDE's, and other tooling, feel free to skip this section._
+
 Platform: open MIT - no account required
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
@@ -109,7 +110,7 @@ Supplemental: Chapters 11 - 16 in Marijn Haverbeke's [Eloquent JavaScript](https
    - Watch this video on powerful, modern web layout designs: https://www.youtube.com/watch?v=qm0IfG1GyZU
 
    Complete all the modules in the Full Stack Open curriculum.
-   This will introduce you to React, the front-end framework javascript library created by Facebook. It will use modern, functional programming with React, and then teach Node.js, Express (server-side JavaScript library), GraphQL (API design) and MongoDB (document style, non-relation DB schema).
+   This will introduce you to React, the popular, front-end framework JavaScript library created by Facebook. It will teach modern, functional programming with React, and then teach Node.js, Express (server-side JavaScript library), GraphQL (API design) and MongoDB (document style, non-relation databasing) to develop a full-stack web application.
 
    Platform: Independent - [fullstackopen.com](https://fullstackopen.com/en/)
 
